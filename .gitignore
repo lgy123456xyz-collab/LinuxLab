@@ -1,0 +1,29 @@
+# 编译生成的二进制文件 (最常用)
+*.o
+*.out
+*.exe
+
+# Lab 特有的可执行程序 (以 Data Lab, Bomb Lab 等为例)
+btest
+fshow
+ishow
+bomb
+solve
+*.tmp
+
+# 调试与追踪文件 (常用)
+*.dSYM/
+core
+gmon.out
+
+# VS Code 产生的隐藏配置 (常用)
+.vscode/
+
+# 备份与临时文件
+*~
+*.swp
+
+__pycache__/
+
+# 忽略所有 PDF 文件 (实验文档)
+*.pdf
