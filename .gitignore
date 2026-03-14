@@ -27,3 +27,14 @@ __pycache__/
 
 # 忽略所有 PDF 文件 (实验文档)
 *.pdf
+SystemProgramDesign/CompileConfige/sample
+SystemProgramDesign/CompileConfige/sample.i
+SystemProgramDesign/CompileConfige/sample.s
+SystemProgramDesign/CompileConfige/sample.o
+SystemProgramDesign/optimize/addo0
+SystemProgramDesign/optimize/addo1
+SystemProgramDesign/optimize/addo2
+SystemProgramDesign/optimize/addo3
+SystemProgramDesign/optimize/addofast
+SystemProgramDesign/optimize/addos
+git.png
