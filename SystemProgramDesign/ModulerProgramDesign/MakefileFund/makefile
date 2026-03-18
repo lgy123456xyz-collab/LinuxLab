@@ -11,4 +11,5 @@ test.o:test.c
 
 .PHONY: clean
 clean:
-	rm -rf circle.o cube.o test.o $(TAR)
+# 	rm -rf circle.o cube.o test.o $(TAR)
+	rm -rf *.o 
