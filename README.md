@@ -76,3 +76,7 @@
 2026/03/15 Rename it's name to LinuxLab
 
 2026/03/18 Wirte a detailed README.md by the assistant of Gemini
+
+2026/03/29 将web内容放进来然后用快捷方式跳到/var/www里,中途失误,没用unlink, 用rm -rf 把快捷方式的地址加上/了,就全没了,所幸内容不多
+
+2026/03/29 将cs61a的md 等等仓库弄上来
